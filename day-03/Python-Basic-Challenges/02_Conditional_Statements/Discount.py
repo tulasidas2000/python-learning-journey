@@ -13,3 +13,4 @@ else:
 discamount = amount - discount
 
 print('Pay ', discamount)
+

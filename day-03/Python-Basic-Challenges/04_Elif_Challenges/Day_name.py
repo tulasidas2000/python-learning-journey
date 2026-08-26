@@ -17,4 +17,4 @@ elif day == 6:
 elif day == 7:
     print('Saturday')
 else:
-    print('Invalid Day Number')
+    print('Invalid Day Number')  
